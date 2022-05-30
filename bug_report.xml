@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<report>
+  <id>1</id>
+ <summary>There is no 'Expand' button in the 'About Knight' window when calling about dialog</summary>
+ <description>It is not possible to expand the 'About Knight' window to full screen when calling about dialog to the 'About' submenu in the 'Help' menu</summary>
+ <str>1.Launch the application file Knight.exe 2. Click on the 'Help' menu button 3. Click on the 'About' submenu button</str>
+  <AR>There is no 'Expand' button in the 'About Dialog' window</AR>
+  <ER>the 'Expand' button is implemented in the 'About Dialog' window</ER>
+  <severity>minor</severity>
+  <priority>low</priority>
+ <attachments>file.png</priority>
+</report>
